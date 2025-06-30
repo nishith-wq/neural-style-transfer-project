@@ -1,5 +1,17 @@
 # neural-style-transfer-project
 
+*Company* - *CODTECH IT SOLUTIONS*
+
+*NAME* - *NISHEETH CHANDRA*
+
+*INTERN ID* - *CT04DF2787*
+
+*DOMAIN* - *ARTIFICIAL INTELLIGENCE*
+
+*DURATION* - *4 WEEKS*
+
+*MENTOR* - *NEELA SANTHOSH*
+
 # Neural Network Classifier using Keras
 
 ## Overview
